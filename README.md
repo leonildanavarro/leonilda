@@ -1,4 +1,4 @@
 leonilda
 ========
 
-Primeros Code Creando una Clase llamada Persona
+Primer Code Creando una Clase llamada Persona
